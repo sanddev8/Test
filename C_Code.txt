@@ -2,7 +2,9 @@
 # include math.h
 int a =10;
 int b=20;
-int c;
+int c,d;
 c=a+b;
-printf("The sum value is %d",c);
+d=a*b;
+printf("The Added value is %d",c);
+printf("The multiplied value is %d",d);
 return 0;
