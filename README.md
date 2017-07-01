@@ -1,3 +1,4 @@
 # Test
 GetStarted
-Welcome to GitHub Terminal
+Welcome to GitHub Terminal.
+Deploy the code.
