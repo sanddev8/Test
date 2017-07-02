@@ -13,4 +13,5 @@ printf("The Multiplied value is %d",d);
 printf("The Difference value is %d",e);
 printf("The Division Value is %d", f);
 printf("Arthimatic Operations Completed");
+printf("CONGRATULATIONS");
 return 0;
